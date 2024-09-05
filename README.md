@@ -85,6 +85,14 @@ python eval.py
 
 ## Experiment Results
 
-### Results on Flickr30K and Ms-COCO
+### Results on Well-Annotated Datasets
+<img src="https://github.com/qxzha/UCPM/blob/main/well_annotated.png" >
 
+### Results on Simulated PMPs
+<img src="https://github.com/qxzha/UCPM/blob/main/flickr_mscoco.png" >
 
+### Results on Real-World PMPs
+<img src="https://github.com/qxzha/UCPM/blob/main/cc152k.png" >
+
+## License
+[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
