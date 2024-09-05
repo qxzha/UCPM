@@ -3,7 +3,7 @@ The official pytorch implementation of [UCPM: Uncertainty-Guided Cross-Modal Ret
 
 ## Introduction
 ### UCPM framework
-<img src="https://github.com/qxzha/UCPM/main/framework.png" >
+<img src="https://github.com/qxzha/UCPM/blob/main/framework.png" >
 
 ## DATASETS 
 Our directory structure of ```data```.
