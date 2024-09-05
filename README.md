@@ -65,7 +65,12 @@ If you want to experiment with the same noise index as in this paper, the noise 
 ### Training
 Coming soon
 
-### Evaluation
+### Pre-trained models and Evaluation
+The pre-trained models are available here:
+
+1. CC152K model [Download](https://drive.google.com/file/d/1pmnNmxZDcO99Jb0li1_vU9kkrz3N7wAO/view?usp=drive_link)
+2. F30K 20% MRate model [Download](https://drive.google.com/file/d/1Ut15QxkkaEjpDVIjU4xZb58HrKWuZcNA/view?usp=drive_link)
+
 Modify the ```data_path```, ```vocab_path```, and ```model_paths``` in the ```eval.py``` file and run it.
 ```
 python eval.py
