@@ -70,9 +70,13 @@ The pre-trained models are available here:
 
 1. CC152K model [Download](https://drive.google.com/file/d/1pmnNmxZDcO99Jb0li1_vU9kkrz3N7wAO/view?usp=drive_link)
 2. F30k 20% MRate model [Download](https://drive.google.com/file/d/1Ut15QxkkaEjpDVIjU4xZb58HrKWuZcNA/view?usp=drive_link)
-3. F30k 60% MRate model [Download](https://drive.google.com/file/d/10TidbMZ68iO0ERRF9M6_wxSDLXDB0QKv/view?usp=drive_link)
-4. COCO 20% MRate model [Download](https://drive.google.com/file/d/1Ck6bReHF0rQjNeVEwmRKnBn_swBy2ej8/view?usp=drive_link)
-5. COCO 40% MRate model [Download](https://drive.google.com/file/d/1nwwR8sHbJlz5fj7yHCrz9Q4dXmX4PLdM/view?usp=drive_link)
+3. F30k 40% MRate model [Download](https://drive.google.com/file/d/1E83kUnr1gwrvPB0Ry4zFJwA0g3dfLsPp/view?usp=drive_link)
+4. F30k 60% MRate model [Download](https://drive.google.com/file/d/10TidbMZ68iO0ERRF9M6_wxSDLXDB0QKv/view?usp=drive_link)
+5. F30k 80% MRate model [Download](https://drive.google.com/file/d/1mnG8Nw9ZhpnCEIVYMBcEPgCgOsSd8SlG/view?usp=drive_link)
+6. COCO 20% MRate model [Download](https://drive.google.com/file/d/1Ck6bReHF0rQjNeVEwmRKnBn_swBy2ej8/view?usp=drive_link)
+7. COCO 40% MRate model [Download](https://drive.google.com/file/d/1nwwR8sHbJlz5fj7yHCrz9Q4dXmX4PLdM/view?usp=drive_link)
+8. COCO 60% MRate model [Download](https://drive.google.com/file/d/1WG-GzfljnwdAoj9DlFIKfzw_YN4kXd7j/view?usp=drive_link)
+9. COCO 80% MRate model [Download](https://drive.google.com/file/d/1_rbC88LOKthc7fmVxm3YPY4trKKoEFtg/view?usp=drive_link)
 
 Modify the ```data_path```, ```vocab_path```, and ```model_paths``` in the ```eval.py``` file and run it.
 ```
