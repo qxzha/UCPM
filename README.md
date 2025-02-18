@@ -6,9 +6,10 @@ I would greatly appreciate your support!
 
 **Email**: [quanxing.zha@gmail.com](quanxing.zha@gmail.com)
 
-## Introduction
 
 The official pytorch implementation of [UCPM: Uncertainty-Guided Cross-Modal Retrieval with Partially Mismatched Pairs]() (submitted to IEEE TIP). 
+
+## Introduction
 
 ### UCPM framework
 <img src="https://github.com/qxzha/UCPM/blob/main/framework.png" >
