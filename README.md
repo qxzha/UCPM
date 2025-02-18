@@ -1,9 +1,12 @@
 # UCPM: Uncertainty-Guided Cross-Modal Retrieval with Partially Mismatched Pairs
-The official pytorch implementation of [UCPM: Uncertainty-Guided Cross-Modal Retrieval with Partially Mismatched Pairs]() (submitted to IEEE TIP). 
 
 # 🚀 Seeking a PhD Opportunity
 I am currently looking for exciting PhD opportunities. If you know of any openings or can connect me with potential advisors, please feel free to reach out of me.
 I would greatly appreciate your support! 
+
+**Email**: [quanxing.zha@gmail.com](quanxing.zha@gmail.com)
+
+The official pytorch implementation of [UCPM: Uncertainty-Guided Cross-Modal Retrieval with Partially Mismatched Pairs]() (submitted to IEEE TIP). 
 
 **Email**: [quanxing.zha@gmail.com](quanxing.zha@gmail.com)
 
